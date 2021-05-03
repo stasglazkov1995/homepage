@@ -1,3 +1,14 @@
 .contacts li a.instagram:hover {
     color: #dd4f4f;
   }
+  #ukrain-language{
+    background: linear-gradient(0deg, rgba(231,253,45,0.48503151260504207) 47%, rgba(34,89,195,0.5410539215686274) 57%);
+    border-radius: 5px;
+  }
+  #polish-language{
+    background: linear-gradient(0deg, rgba(253,45,45,1) 47%, rgba(255,255,255,1) 57%);
+    border-radius: 5px;
+  }
+  #usa-language{
+    border-radius: 5px;
+  }
