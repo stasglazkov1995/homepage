@@ -1,4 +1,4 @@
 # Homepage
-My very own personal website. Basically this is just a résumé.
+Also I deploy my website to AWS server through  Travis service http://stanislavglazkov.com-staging.s3-website.eu-central-1.amazonaws.com/
 
-hello
+And during this task I use Vercel https://homepage-sable.vercel.app/
