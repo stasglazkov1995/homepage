@@ -1,6 +1,4 @@
-# Homepage
-Also I deploy my website to AWS server through  Travis service http://stanislavglazkov.com-staging.s3-website.eu-central-1.amazonaws.com/
-
-And during this task I use Vercel https://homepage-sable.vercel.app/
+# Stanislav Hlazkov CV
+ I use Vercel to deploy my CV https://homepage-nvtxf09ln-stasglazkov1995.vercel.app
 
 🧙Hocus-pocus!
